@@ -8,11 +8,22 @@ https://laravel.com/docs/8.x/installation
 
 #### 3 - Directory structure ? Cấu trúc thư mục ?
 #### 4 - Request lifecycle ? Luồng hoạt động ? 
+    
+# -------------------------------
 
+# -------------------------------
+    
 ### Laravel Eloquent Relationships Tutorial From Scratch
 https://www.itsolutionstuff.com/post/laravel-eloquent-relationships-tutorial-from-scratchexample.html
 ### Laravel One to One Eloquent Relationship Tutorial
 https://www.itsolutionstuff.com/post/laravel-one-to-one-eloquent-relationship-tutorialexample.html
 ### Laravel One to Many Eloquent Relationship Tutorial
 https://www.itsolutionstuff.com/post/laravel-one-to-many-eloquent-relationship-tutorialexample.html
-
+### Laravel Many to Many Eloquent Relationship Tutorial
+https://www.itsolutionstuff.com/post/laravel-many-to-many-eloquent-relationship-tutorialexample.html
+### Laravel Has Many Through Eloquent Relationship Tutorial
+https://www.itsolutionstuff.com/post/laravel-has-many-through-eloquent-relationship-tutorialexample.html
+### Laravel One to Many Polymorphic Relationship Tutorial
+https://www.itsolutionstuff.com/post/laravel-one-to-many-polymorphic-relationship-tutorialexample.html
+### Laravel Many to Many Polymorphic Relationship Tutorial
+https://www.itsolutionstuff.com/post/laravel-many-to-many-polymorphic-relationship-tutorialexample.html
