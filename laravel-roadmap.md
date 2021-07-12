@@ -11,3 +11,8 @@ https://laravel.com/docs/8.x/installation
 
 ### Laravel Eloquent Relationships Tutorial From Scratch
 https://www.itsolutionstuff.com/post/laravel-eloquent-relationships-tutorial-from-scratchexample.html
+### Laravel One to One Eloquent Relationship Tutorial
+https://www.itsolutionstuff.com/post/laravel-one-to-one-eloquent-relationship-tutorialexample.html
+### Laravel One to Many Eloquent Relationship Tutorial
+https://www.itsolutionstuff.com/post/laravel-one-to-many-eloquent-relationship-tutorialexample.html
+
