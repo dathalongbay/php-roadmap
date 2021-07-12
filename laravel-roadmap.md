@@ -49,5 +49,7 @@ https://www.codecheef.org/article/laravel-queues-example-using-redis-and-horizon
 https://www.codecheef.org/article/laravel-error-handling-with-exception-and-try-catch
 ### How to Set Limit Login Attempts in Laravel 8
 https://www.codecheef.org/article/how-to-set-limit-login-attempts-in-laravel-7
+### How to Send Email in Laravel 8.x with Mailtrap
+https://www.codecheef.org/article/how-to-send-email-in-laravel-7-with-mailtrap
 # Naming convention 
 
