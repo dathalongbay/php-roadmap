@@ -45,6 +45,7 @@ https://www.codecheef.org/article/laravel-and-n-1-problem-how-to-fix-n1-problem
 https://www.codecheef.org/article/create-your-own-multilevel-nested-comments-system-in-laravel
 ### Laravel 8.x Queues Example with Redis and Horizon
 https://www.codecheef.org/article/laravel-queues-example-using-redis-and-horizon
+### Laravel Error Handling with Exception and Try Catch
 https://www.codecheef.org/article/laravel-error-handling-with-exception-and-try-catch
 # Naming convention 
 
