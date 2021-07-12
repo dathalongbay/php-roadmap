@@ -28,7 +28,9 @@ https://www.itsolutionstuff.com/post/laravel-one-to-many-polymorphic-relationshi
 https://www.itsolutionstuff.com/post/laravel-many-to-many-polymorphic-relationship-tutorialexample.html
 ### Laravel Eloquent Relationships Tutorial with Examples From Scratch
 https://dev.to/ellis22/everything-about-laravel-eloquent-relationships-tutorial-with-examples-from-scratch-47k8
-
+# Laravel transaction 
+https://fideloper.com/laravel-database-transactions  
+https://www.codecheef.org/article/database-transaction-when-and-how-to-use-database-transactions-in-laravel  
 # Top laravel package
 ### How to Backup Laravel Files and Database
 https://dev.to/ellis22/how-to-backup-laravel-files-and-database-3ehb
