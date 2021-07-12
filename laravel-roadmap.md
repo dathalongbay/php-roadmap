@@ -53,3 +53,5 @@ https://www.codecheef.org/article/how-to-set-limit-login-attempts-in-laravel-7
 https://www.codecheef.org/article/how-to-send-email-in-laravel-7-with-mailtrap
 # Naming convention 
 
+### Laravel repository package
+
