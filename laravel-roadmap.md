@@ -26,5 +26,7 @@ https://www.itsolutionstuff.com/post/laravel-has-many-through-eloquent-relations
 https://www.itsolutionstuff.com/post/laravel-one-to-many-polymorphic-relationship-tutorialexample.html
 ### Laravel Many to Many Polymorphic Relationship Tutorial
 https://www.itsolutionstuff.com/post/laravel-many-to-many-polymorphic-relationship-tutorialexample.html
+### Laravel Eloquent Relationships Tutorial with Examples From Scratch
+https://dev.to/ellis22/everything-about-laravel-eloquent-relationships-tutorial-with-examples-from-scratch-47k8
 
 # 
