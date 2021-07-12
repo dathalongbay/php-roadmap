@@ -31,6 +31,7 @@ https://dev.to/ellis22/everything-about-laravel-eloquent-relationships-tutorial-
 # Laravel transaction 
 https://fideloper.com/laravel-database-transactions  
 https://www.codecheef.org/article/database-transaction-when-and-how-to-use-database-transactions-in-laravel  
+https://viblo.asia/p/tim-hieu-sql-transaction-va-cach-su-dung-trong-laravel-yMnKMnLzZ7P   
 # Top laravel package
 ### How to Backup Laravel Files and Database
 https://dev.to/ellis22/how-to-backup-laravel-files-and-database-3ehb
