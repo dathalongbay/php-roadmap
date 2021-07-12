@@ -47,5 +47,7 @@ https://www.codecheef.org/article/create-your-own-multilevel-nested-comments-sys
 https://www.codecheef.org/article/laravel-queues-example-using-redis-and-horizon
 ### Laravel Error Handling with Exception and Try Catch
 https://www.codecheef.org/article/laravel-error-handling-with-exception-and-try-catch
+### How to Set Limit Login Attempts in Laravel 8
+https://www.codecheef.org/article/how-to-set-limit-login-attempts-in-laravel-7
 # Naming convention 
 
