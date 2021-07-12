@@ -51,6 +51,11 @@ https://www.codecheef.org/article/laravel-error-handling-with-exception-and-try-
 https://www.codecheef.org/article/how-to-set-limit-login-attempts-in-laravel-7
 ### How to Send Email in Laravel 8.x with Mailtrap
 https://www.codecheef.org/article/how-to-send-email-in-laravel-7-with-mailtrap
+
+### Laravel 8.x Ajax Request Example from Scratch
+https://www.codecheef.org/article/laravel-7-ajax-request-example-from-scratch.html
+### jQuery Ajax Dynamic Dependent Dropdown in Laravel
+https://www.codecheef.org/article/jquery-ajax-dynamic-dependent-dropdown-in-laravel-7
 # Naming convention 
 
 ### Laravel repository package
