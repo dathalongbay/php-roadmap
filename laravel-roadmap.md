@@ -35,3 +35,8 @@ https://viblo.asia/p/tim-hieu-sql-transaction-va-cach-su-dung-trong-laravel-yMnK
 # Top laravel package
 ### How to Backup Laravel Files and Database
 https://dev.to/ellis22/how-to-backup-laravel-files-and-database-3ehb
+
+
+
+### Laravel and N + 1 Problem | How To Fix N + 1 Problem
+https://www.codecheef.org/article/laravel-and-n-1-problem-how-to-fix-n1-problem
