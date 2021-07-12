@@ -40,3 +40,7 @@ https://dev.to/ellis22/how-to-backup-laravel-files-and-database-3ehb
 
 ### Laravel and N + 1 Problem | How To Fix N + 1 Problem
 https://www.codecheef.org/article/laravel-and-n-1-problem-how-to-fix-n1-problem
+
+### Laravel 8.x Multilevel Nested Comments System Tutorial
+https://www.codecheef.org/article/create-your-own-multilevel-nested-comments-system-in-laravel
+
