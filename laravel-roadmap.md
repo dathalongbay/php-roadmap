@@ -43,4 +43,8 @@ https://www.codecheef.org/article/laravel-and-n-1-problem-how-to-fix-n1-problem
 
 ### Laravel 8.x Multilevel Nested Comments System Tutorial
 https://www.codecheef.org/article/create-your-own-multilevel-nested-comments-system-in-laravel
+### Laravel 8.x Queues Example with Redis and Horizon
+https://www.codecheef.org/article/laravel-queues-example-using-redis-and-horizon
+
+# Naming convention 
 
