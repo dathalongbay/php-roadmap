@@ -55,13 +55,13 @@ https://www.codecheef.org/article/how-to-send-email-in-laravel-7-with-mailtrap
 ### Laravel 8.x Ajax Request Example from Scratch
 https://www.codecheef.org/article/laravel-7-ajax-request-example-from-scratch.html
 ### jQuery Ajax Dynamic Dependent Dropdown in Laravel
-https://www.codecheef.org/article/jquery-ajax-dynamic-dependent-dropdown-in-laravel-7
-https://www.codecheef.org/article/multiple-image-upload-upload-multiple-image-in-laravel-7
-https://www.codecheef.org/article/laravel-passport-scope-tutorial-api-permissions-using-passport-scope
-https://www.codecheef.org/article/laravel-6-rest-api-with-jwt-authentication-with-crud
-https://www.codecheef.org/article/use-facades-to-get-static-interface-in-laravel
-https://www.codecheef.org/article/laravel-cron-jobs-with-task-scheduler-example
-https://www.codecheef.org/article/laravel-crud-with-mongodb-tutorial
+https://www.codecheef.org/article/jquery-ajax-dynamic-dependent-dropdown-in-laravel-7   
+https://www.codecheef.org/article/multiple-image-upload-upload-multiple-image-in-laravel-7   
+https://www.codecheef.org/article/laravel-passport-scope-tutorial-api-permissions-using-passport-scope   
+https://www.codecheef.org/article/laravel-6-rest-api-with-jwt-authentication-with-crud   
+https://www.codecheef.org/article/use-facades-to-get-static-interface-in-laravel    
+https://www.codecheef.org/article/laravel-cron-jobs-with-task-scheduler-example   
+https://www.codecheef.org/article/laravel-crud-with-mongodb-tutorial   
 
 # Naming convention 
 # https://www.codecheef.org/all-laravel-posts
